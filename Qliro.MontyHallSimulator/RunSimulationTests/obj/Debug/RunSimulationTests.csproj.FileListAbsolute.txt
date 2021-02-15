@@ -1,0 +1,16 @@
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\RunSimulationTests.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\RunSimulationTests.pdb
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\RunSimulator.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\bin\Debug\RunSimulator.pdb
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\obj\Debug\RunSimulationTests.csprojAssemblyReference.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\obj\Debug\RunSimulationTests.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\obj\Debug\RunSimulationTests.csproj.CopyComplete
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\obj\Debug\RunSimulationTests.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulationTests\obj\Debug\RunSimulationTests.pdb

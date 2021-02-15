@@ -1,0 +1,13 @@
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.Properties.Resources.resources
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.Simulator.resources
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.csproj.GenerateResource.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.csprojAssemblyReference.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\bin\Debug\Qliro.MontyHallSimulator.exe.config
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\bin\Debug\Qliro.MontyHallSimulator.exe
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\bin\Debug\Qliro.MontyHallSimulator.pdb
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\bin\Debug\RunSimulator.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\bin\Debug\RunSimulator.pdb
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.csproj.CopyComplete
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.exe
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\Qliro.MontyHallSimulator\obj\Debug\Qliro.MontyHallSimulator.pdb

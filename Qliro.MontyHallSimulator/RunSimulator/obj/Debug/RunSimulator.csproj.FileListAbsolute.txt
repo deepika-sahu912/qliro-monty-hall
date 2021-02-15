@@ -1,0 +1,5 @@
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulator\bin\Debug\RunSimulator.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulator\bin\Debug\RunSimulator.pdb
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulator\obj\Debug\RunSimulator.csproj.CoreCompileInputs.cache
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulator\obj\Debug\RunSimulator.dll
+C:\Users\achar\source\repos\Qliro.MontyHallSimulator\RunSimulator\obj\Debug\RunSimulator.pdb
